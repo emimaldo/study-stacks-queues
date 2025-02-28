@@ -1,4 +1,4 @@
-import { Stack } from "./stack-example/Stack.js";
+import { Stack } from "./Stack.ts";
 
 const stack = new Stack<number>();
 
